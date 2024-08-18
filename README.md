@@ -1,4 +1,4 @@
-# Human-Resource-dashboard
+# Human-Resource-Dashboard
 
 This Tableau-based Human Resource Dashboard was meticulously crafted to visualize and analyze crucial HR metrics. It’s divided into three insightful sections:
 
